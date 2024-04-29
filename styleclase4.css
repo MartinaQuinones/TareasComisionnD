@@ -1,0 +1,18 @@
+.diaLunes{
+    background-color: aqua;
+}
+.diaMartes{
+background-color: blue;
+}
+.diaMiercoles{
+background-color: blueviolet;
+}
+.diaJueves{
+background-color: brown;
+}
+.diaViernes{
+background-color: coral;
+}
+.dias{
+    font-size: 20px;
+}
