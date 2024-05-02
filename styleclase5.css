@@ -1,0 +1,17 @@
+.headerclasS{
+    background-color: beige;
+    width: 100%;
+    height: 70px;
+}
+.footerclasS{
+    background-color: beige;
+    width: 100%;
+    height: 70px;
+}
+.formulario{
+border-top: 20px solid black;
+border-bottom: 20px solid black;
+border-left: 20px solid black;
+border-right: 20px solid black;
+
+}
