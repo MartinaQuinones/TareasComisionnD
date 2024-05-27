@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="widht=device-widht, initial-scale=1.0">
+    <title>Formulario de contacto</title>
+    <link rel="stylesheet" href="../css/styleclase5.css">
+</head>
+<body class="formulario">
+    <form action="tarea3.html" method="get">
+        <h1>Formulario de contacto</h1>
+        <h2>Seleccione su motivo</h2>
+        <select id="Motivo" name="Motivo">
+            <option value="Seleccione">Seleccione</option>
+            <option value="Cambios y devoluciones">Cambios y devoluciones</option>
+            <option value="Envio de pedido">Envio de pedido</option>
+            <option value="Otra información">Otra información</option>
+        </select>
+        <h2>Ingresa tu nombre completo</h2>
+        <input type="text" name="text" required> 
+        <h2>Ingresa mail</h2>
+        <input type="email" placeholder="user@cuenta.com">
+        <h2>Numero de telefono</h2>
+        <input type="number" placeholder="11111">
+        <h2>Deja tu comentario</h2>
+        <textarea name="Deja tu comentario" id="" cols="30" rows="10" placeholder="Deja tu comentario"></textarea>
+        <h2>Enviar</h2>
+        <input type="submit" value="Confirmar">
+        <input type="reset" value="Cancelar">
+    </form>
+</body>

@@ -1,0 +1,87 @@
+
+.nav-logo{
+    background-image: url(../betty_logo.jfif);
+    background-size: 134px 134px;
+    height: 134px;
+    width: 134px;
+    display: flex;
+}
+
+.nav-header .nav-bounds {
+    height: 100px;
+}
+.nav-header-plus .nav-top-area {
+    height: 40px;
+    align-items: center;
+}
+.headerclasS{
+    background-color: #fff3e6;
+    width: 100%;
+    height: 70px;
+}
+
+.bodyClass{
+    background-color:#fff3e6;
+
+}
+
+
+.divClass{
+    column-count: 3 ;
+    column-gap: 50px;
+
+}
+.metodoS{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.metodoSs{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+.formulario{
+border-top: 20px solid (#d68189);
+border-bottom: 20px solid (#d68189);
+border-left: 20px solid (#d68189);
+border-right: 20px solid (#d68189);
+}
+
+.footerNaw{
+    background-color: #c2ada5;
+    color: #fff;
+    padding: 10px;
+}
+
+.textocentradoh2{
+    text-align: center;
+    font-family: "Josefin Sans', sans-serif";
+}
+
+.centradodeImagenes{
+    display: grid;
+    grid-template-columns:(3,1fr);
+    gap: 50px;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+    font-family: "Josefin Sans', sans-serif";
+
+
+}
+.subrayado{
+    text-decoration: underline;
+}
+
+.uk-button-large{
+    padding: 0 40px;
+    line-height: 53px;
+    font-size: .875rem
+}
+.block-products-feed__product-buttons-view{
+    color: inherit;
+    text-decoration: none;
+    
+}
